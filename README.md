@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello! My name is Alan Guillermo 👋
+I am a junior back-end and front-end developer. I like to create user-friendly web applications for better user experience and develop them with best practices.
+
+![Blue and White Abstract Technology LinkedIn Banner](https://user-images.githubusercontent.com/31216472/120762612-07582b00-c4dc-11eb-8472-d7ff1e2e7598.png)
+
+- 🔭 I am currently working as a back-end developer.
+- 🌱 I am currently learning Ruby on rails and reactjs.
+- 📫 How to reach me:
+  - [Linkedin](https://www.linkedin.com/in/alang2016/)
 
 <!--
 **ALAN1MACIAS/ALAN1MACIAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
