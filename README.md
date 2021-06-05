@@ -1,7 +1,7 @@
 ### Hello! My name is Alan Guillermo 👋
 I am a junior back-end and front-end developer. I like to create user-friendly web applications for better user experience and develop them with best practices.
 
-![Blue and White Abstract Technology LinkedIn Banner](https://user-images.githubusercontent.com/31216472/120762612-07582b00-c4dc-11eb-8472-d7ff1e2e7598.png)
+![Blue and White Abstract Technology LinkedIn Banner](https://user-images.githubusercontent.com/31216472/120875079-8cd8eb00-c56f-11eb-8de1-23ed469c1724.gif)
 
 - 🔭 I am currently working as a back-end developer.
 - 🌱 I am currently learning Ruby on rails and reactjs.
