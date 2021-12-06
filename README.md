@@ -3,8 +3,8 @@ I am a junior back-end and front-end developer. I like to create user-friendly w
 
 ![Blue and White Abstract Technology LinkedIn Banner](https://user-images.githubusercontent.com/31216472/120875079-8cd8eb00-c56f-11eb-8de1-23ed469c1724.gif)
 
-- 🔭 I am currently working as a back-end developer.
-- 🌱 I am currently learning Ruby on rails and reactjs.
+- 🔭 I am currently working as a back-end developer with Ruby on Rails. Developing MVC and APIs..
+- 🌱 I am currently learning Ruby on rails.
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/alang2016/)
 
